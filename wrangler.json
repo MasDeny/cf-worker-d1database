@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "cf-worker-d1database",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "4f1bac75-9925-434d-9047-0df76a9bd9a8",
+      "database_name": "still-pine-73ae-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
